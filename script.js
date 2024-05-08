@@ -1,5 +1,5 @@
 
-const RAPIDAPI_KEY = '29d65a37famsh8ee586bd7859b3fp170817jsn85ba4a0e5c95';
+const RAPIDAPI_KEY = 'a0ef153927msh3f34dd77cdf5284p1dd4bajsn4a09cc96913f';
 
 
 async function detectLanguage(text) {
